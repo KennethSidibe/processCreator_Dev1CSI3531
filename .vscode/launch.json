@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/kanekisidibe/Documents/UOttawa/WINTER2023/CSI3531/Devoirs/#1",
+      "program": "/Users/kanekisidibe/Documents/UOttawa/WINTER2023/CSI3531/Devoirs/#1/build/Debug/outDebug"
+    }
+  ]
+}
